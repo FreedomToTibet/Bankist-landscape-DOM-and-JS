@@ -1,5 +1,3 @@
-/* The page is NOT responsive. You can implement responsiveness yourself if you wanna have some fun 😃 */
-
 :root {
   --color-primary: #5ec576;
   --color-secondary: #ffcb03;
@@ -133,11 +131,6 @@ img {
 .nav__logo {
   height: 4.5rem;
   transition: all 0.3s;
-}
-
-.nav__logo:hover {
-	cursor: pointer;
-	scale: 1.05;
 }
 
 .nav__links {
