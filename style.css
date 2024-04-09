@@ -133,6 +133,11 @@ img {
   transition: all 0.3s;
 }
 
+.nav__logo:hover {
+	transform: scale(1.03);
+	cursor: pointer;
+}
+
 .nav__links {
   display: flex;
   align-items: center;
